@@ -1,0 +1,4 @@
+.idea/
+avro2parquet.iml
+out/
+target/
